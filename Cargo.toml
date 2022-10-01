@@ -1,6 +1,6 @@
 [package]
 name = "aptos-pprint"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "a script that makes aptos debug message readable"
 license = "MIT"
