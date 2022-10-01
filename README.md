@@ -18,4 +18,6 @@ $ aptos move test | aptos-pprint
 
 ## Install
 
-TODO
+```
+cargo install aptos-pprint
+```
