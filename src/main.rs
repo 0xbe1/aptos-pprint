@@ -1,6 +1,5 @@
 use regex::{Captures, Regex};
-use std::io;
-use std::io::BufRead;
+use std::io::{self, BufRead};
 
 const DEBUG_PREFIX: &str = "[debug] (&)";
 
