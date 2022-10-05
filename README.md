@@ -1,5 +1,9 @@
 # aptos pprint
 
+<a href="https://crates.io/crates/aptos-pprint">
+    <img src="https://img.shields.io/crates/v/aptos-pprint.svg" alt="Version">
+</a>
+
 With `debug::print(&b"aptos debug made easy")` in code.
 
 Before 🤯
